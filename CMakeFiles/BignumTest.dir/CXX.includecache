@@ -1,0 +1,20 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/lwb/桌面/Bignum/src/Bignum.cpp
+Bignum.hpp
+/home/lwb/桌面/Bignum/src/Bignum.hpp
+
+/home/lwb/桌面/Bignum/test.cpp
+Bignum.hpp
+/home/lwb/桌面/Bignum/Bignum.hpp
+
+include/Bignum.hpp
+iostream
+-
+

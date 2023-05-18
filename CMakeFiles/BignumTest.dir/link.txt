@@ -1,0 +1,1 @@
+/usr/bin/c++     CMakeFiles/BignumTest.dir/src/Bignum.cpp.o CMakeFiles/BignumTest.dir/test.cpp.o  -o bin/BignumTest 

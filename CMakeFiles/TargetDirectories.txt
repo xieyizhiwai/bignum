@@ -1,0 +1,3 @@
+/home/lwb/桌面/Bignum/CMakeFiles/rebuild_cache.dir
+/home/lwb/桌面/Bignum/CMakeFiles/edit_cache.dir
+/home/lwb/桌面/Bignum/CMakeFiles/BignumTest.dir
